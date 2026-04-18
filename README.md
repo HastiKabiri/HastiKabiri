@@ -1,16 +1,28 @@
 ## Hi there 👋
+  
+I'm Hasti, a Software Engineering student based in Malaysia  
 
-<!--
-**HastiKabiri/HastiKabiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring AI, Kotlin, and Android development  
+I enjoy building small projects and learning by doing  
 
-Here are some ideas to get you started:
+This GitHub is where I share my progress, experiments, and things I'm working on  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Tech I'm learning  
+- Java / Kotlin  
+- Basic Android Development  
+- Intro to AI  
+
+---
+
+✨ A bit about me  
+- 📚 Always trying to learn something new  
+- 🌱 Focused on improving step by step  
+- 💡 Interested in building useful, real-world apps  
+
+---
+
+📩 Contact  
+Email: your@email.com  
+📷 Instagram: https://www.instagram.com/hasti.diaries/
