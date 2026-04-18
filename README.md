@@ -23,6 +23,4 @@ This GitHub is where I share my progress, experiments, and things I'm working on
 
 ---
 
-📩 Contact  
-Email: your@email.com  
-📷 Instagram: https://www.instagram.com/hasti.diaries/
+
