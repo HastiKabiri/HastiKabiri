@@ -1,26 +1,68 @@
-## Hi there 👋
-  
-I'm Hasti, a Software Engineering student based in Malaysia  
+# Hi there 👋
 
-Currently exploring AI, Kotlin, and Android development  
-I enjoy building small projects and learning by doing  
-
-This GitHub is where I share my progress, experiments, and things I'm working on  
+I'm **Hasti** — a Software Engineering student based in Malaysia 🇲🇾  
+Focused on building modern, intelligent, and user-centered applications.
 
 ---
 
-## Tech I'm Learning  
-- Python / Kotlin  
-- Basic Android Development  
-- Intro to AI  
-- Dart / Flutter (currently learning)
----  
+## 🚀 About Me
 
- A bit about me  
-- 📚 Always trying to learn something new  
-- 🌱 Focused on improving step by step  
-- 💡 Interested in building useful, real-world apps  
-- ✨ I like building fun things to enjoy
-  
+- 💡 Passionate about **AI-driven products & mobile apps**
+- 📱 Currently building with **Flutter & Android (Kotlin)**
+- 🧠 Exploring **Machine Learning, Deep Learning & NLP**
+- 🎯 Goal: Create real-world apps that actually *matter*
 
+---
 
+## 🧠 Tech Focus
+
+### 🤖 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+
+### 📱 Mobile Development
+- Flutter (Dart)
+- Android Development (Kotlin)
+
+### ☁️ Cloud & Tools
+- AWS
+- Google Cloud Platform (GCP)
+
+### 🎨 Design & UX
+- UI/UX Design
+- Figma
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, Dart , Kotlin, Web development(HTML,CSS,JS)
+- ⚙️ Tools: Git, GitHub, Firebase, REST APIs
+- 🎨 Design: Figma, Adobe Tools
+
+---
+
+## 📈 Currently Learning
+
+- Flutter Development
+- AI + Mobile App Integration
+- Cloud-based scalable apps
+- Generative AI applications
+
+---
+
+## 🌱 Mindset
+
+> Learning by building. Improving every day. No shortcuts.
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/hasti-kabiri-717551306/
+
+---
+
+✨ This GitHub is where I share my journey, experiments, and progress.
