@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Hasti** — a Software Engineering student based in Malaysia 🇲🇾
+I'm **Hasti** — a Software Engineering student based in Malaysia 🇲🇾   
 Focused on building modern, intelligent, and user-centered applications.
 
 ---
