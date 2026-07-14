@@ -59,10 +59,5 @@ Focused on building modern, intelligent, and user-centered applications.
 
 ---
 
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/hasti-kabiri-717551306/
-
----
 
 ✨ This GitHub is where I share my journey, experiments, and progress.
