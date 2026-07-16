@@ -53,11 +53,5 @@ Focused on building modern, intelligent, and user-centered applications.
 
 ---
 
-## 🌱 Mindset
-
-> Learning by building. Improving every day. No shortcuts.
-
----
-
 
 ✨ This GitHub is where I share my journey, experiments, and progress.
