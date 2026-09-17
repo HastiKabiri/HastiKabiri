@@ -8,9 +8,8 @@ Focused on building modern, intelligent, and user-centered applications.
 ## 🚀 About Me
 
 - 💡 Passionate about **AI-driven products & mobile apps**
-- 📱 Currently building with **Flutter & Android (Kotlin)**
 - 🧠 Exploring **Machine Learning, Deep Learning & NLP, UI/UX**
-- 🎯 Goal: Create real-world apps that actually *matter*
+
 
 ---
 
