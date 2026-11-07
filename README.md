@@ -33,13 +33,6 @@ I believe the best way to learn something is to build it, break it, understand i
 
 <br>
 
-<div align="center">
-
-<h3>🌐 Socials</h3>
-
-<a href="https://www.linkedin.com/in/hasti-kabiri-717551306/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 ---
 <br><br>
