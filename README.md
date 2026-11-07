@@ -125,9 +125,10 @@ Focused on building modern, intelligent, and user-centered applications.
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HastiKabiri&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
+  <img
+    src="https://github-trophies.vercel.app/?username=HastiKabiri&theme=darkhub&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---
