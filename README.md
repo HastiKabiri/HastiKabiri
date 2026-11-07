@@ -28,6 +28,9 @@ I'm working toward a career in AI and Software Engineering, with a long-term goa
 
 I believe the best way to learn something is to build it, break it, understand it, and make it better.
 
+
+### Hastixie Studio — A creative space where technology meets imagination.
+
 <br>
 
 <div align="center">
