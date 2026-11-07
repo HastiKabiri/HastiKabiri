@@ -47,6 +47,7 @@ UI/UX Design • Figma
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+---
 <br><br>
 
 <h3>💻 Tech Stack</h3>
@@ -96,6 +97,7 @@ UI/UX Design • Figma
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 
 <br><br>
+--- 
 
 <h3>📊 GitHub Stats</h3>
 
@@ -110,12 +112,15 @@ UI/UX Design • Figma
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HastiKabiri&amp;theme=merko&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="Most Used Languages"/>
 
 <br><br>
+---
 
 <h3>🏆 GitHub Trophies</h3>
 
 <img src="https://github-trophies.vercel.app/?username=HastiKabiri&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" alt="GitHub Trophies"/>
 
 <br><br>
+
+---
 
 <h3>✍️ Random Dev Quote</h3>
 
