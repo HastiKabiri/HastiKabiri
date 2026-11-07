@@ -120,9 +120,7 @@ I believe the best way to learn something is to build it, break it, understand i
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=merko" alt="Random Dev Quote"/>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HastiKabiri&amp;icon=0&amp;color=0" alt="Profile Views"/>
 
 </div>
 
