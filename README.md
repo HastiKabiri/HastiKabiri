@@ -1,5 +1,4 @@
 
-```markdown
 <div align="center">
 
 <h1>💫 About Me</h1>
@@ -151,4 +150,4 @@ Generative AI Applications
 <img src="https://komarev.com/ghpvc/?username=HastiKabiri&icon=0&color=0" alt="Profile Views" />
 
 </div>
-```
+
