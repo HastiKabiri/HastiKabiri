@@ -1,5 +1,5 @@
 
-### Hello there!
+### Hello there! 😸
 
 I'm Hasti — a Software Engineering student at [Asia Pacific University](https://www.apu.edu.my) in Malaysia, originally from Iran   
 
@@ -7,7 +7,10 @@ I enjoy turning ideas into real, functional projects — especially when technol
 
 My interests revolve around Artificial Intelligence, Software Development, and Cloud Computing, with a growing curiosity about how intelligent systems can solve real-world problems.
 
-🚀 What I'm Working On
+<br>
+
+
+What I'm Working On 👀
 
 Building personal projects and experimenting with new ideas.
 
@@ -19,7 +22,7 @@ Learning through hands-on development, experimentation, and continuous iteration
 
 <br>
 
-🎯 Where I'm Headed
+Where I'm Headed 🚶🏻‍♀️
 
 I'm working toward a career in AI and Software Engineering, with a long-term goal of developing intelligent systems that go beyond traditional applications.
 
