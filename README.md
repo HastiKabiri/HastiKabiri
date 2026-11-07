@@ -17,6 +17,8 @@ Improving my understanding of software architecture and scalable applications.
 
 Learning through hands-on development, experimentation, and continuous iteration.
 
+<br>
+
 🎯 Where I'm Headed
 
 I'm working toward a career in AI and Software Engineering, with a long-term goal of developing intelligent systems that go beyond traditional applications.
