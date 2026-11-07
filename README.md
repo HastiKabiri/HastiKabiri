@@ -18,8 +18,6 @@ I'm Hasti — a Software Engineering student at [Asia Pacific University](https:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HastiKabiri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=HastiKabiri&icon=0&color=0)](https://visitcount.itsvg.in)
