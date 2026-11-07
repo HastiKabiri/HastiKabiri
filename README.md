@@ -1,14 +1,12 @@
 
-### 💫 About Me
+### Hello there!
 
 I'm Hasti — a Software Engineering student at [Asia Pacific University](https://www.apu.edu.my).
 
 Focused on building modern, intelligent, and user-centered applications.
 
-### 🚀 About Me
-
-💡 Passionate about AI-driven products & mobile apps  
-🧠 Exploring Machine Learning, Deep Learning, NLP & UI/UX
+- Passionate about AI-driven products & mobile apps  
+- Exploring Machine Learning, Deep Learning, NLP & UI/UX
 
 ### 🧠 Tech Focus
 
