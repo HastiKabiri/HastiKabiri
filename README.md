@@ -1,39 +1,27 @@
 
 ### Hello there!
 
-I'm Hasti — a Software Engineering student at [Asia Pacific University](https://www.apu.edu.my).
+I'm Hasti — a Software Engineering student at [Asia Pacific University](https://www.apu.edu.my) in Malaysia, originally from Iran   
 
-Focused on building modern, intelligent, and user-centered applications.
+I enjoy turning ideas into real, functional projects — especially when technology meets creativity.
 
-- Passionate about AI-driven products & mobile apps  
-- Exploring Machine Learning, Deep Learning, NLP & UI/UX
+My interests revolve around Artificial Intelligence, Software Development, and Cloud Computing, with a growing curiosity about how intelligent systems can solve real-world problems.
 
-### 🧠 Tech Focus
+🚀 What I'm Working On
 
-**🤖 Artificial Intelligence**  
-Machine Learning • Deep Learning • Natural Language Processing (NLP) • Generative AI
+Building personal projects and experimenting with new ideas.
 
-**📱 Mobile Development**  
-Flutter (Dart) • Android Development (Kotlin)
+Exploring AI-powered applications and intelligent systems.
 
-**☁️ Cloud & Tools**  
-AWS • Google Cloud Platform (GCP)
+Improving my understanding of software architecture and scalable applications.
 
-**🎨 Design & UX**  
-UI/UX Design • Figma
+Learning through hands-on development, experimentation, and continuous iteration.
 
-### 🛠️ Core Skills
+🎯 Where I'm Headed
 
-💻 **Languages:** Python, Dart, Kotlin, HTML, CSS, JavaScript  
-⚙️ **Tools:** Git, GitHub, Firebase, REST APIs  
-🎨 **Design:** Figma, Adobe Tools
+I'm working toward a career in AI and Software Engineering, with a long-term goal of developing intelligent systems that go beyond traditional applications.
 
-### 📈 Currently Learning
-
-- Flutter Development
-- AI + Mobile App Integration
-- Cloud-based Scalable Apps
-- Generative AI Applications
+I believe the best way to learn something is to build it, break it, understand it, and make it better.
 
 <br>
 
