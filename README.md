@@ -117,7 +117,6 @@ I believe the best way to learn something is to build it, break it, understand i
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HastiKabiri&amp;icon=0&amp;color=0" alt="Profile Views"/>
 
 </div>
 
