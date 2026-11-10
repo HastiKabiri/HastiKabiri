@@ -101,13 +101,13 @@ I believe the best way to learn something is to build it, break it, understand i
 <br><br>
 ---
 
-<h3>🏆 GitHub Trophies</h3>
+<!-- <h3>🏆 GitHub Trophies</h3>
 
 <img src="https://github-trophies.vercel.app/?username=HastiKabiri&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" alt="GitHub Trophies"/>
 
 <br><br>
 
----
+--- -->
 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=merko" alt="Random Dev Quote"/>
