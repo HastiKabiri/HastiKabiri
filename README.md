@@ -109,7 +109,6 @@ I believe the best way to learn something is to build it, break it, understand i
 
 ---
 
-<h3>Quote</h3>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=merko" alt="Random Dev Quote"/>
 
